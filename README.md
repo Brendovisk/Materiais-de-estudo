@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Eu, Brendon F., curso Análise e Desenvolvimento de Sistemas, e durante o curso vi / estou vendo diversas linguagens de programação (C, Python, Java, JS, etc.), e como meio para me ajudar a lembrar dos conteúdos e da sintaxe das linguagens, vi nos arquivos Markdown um refúgio. Então passei a fazer as anotações em Markdown de todas as aulas e bootcamps que envolviam códigos e sintaxes específicas. Mas resolvi compartilhar essas anotações com vocês aqui do Github :)
+Eu, Brendon F., curso Análise e Desenvolvimento de Sistemas, e durante o curso vi / estou vendo diversas linguagens de programação (C, Python, Java, JS, etc.), e como meio para me ajudar a lembrar dos conteúdos e da sintaxe das linguagens, vi nos arquivos Markdown um refúgio. Então passei a fazer as anotações em Markdown de todas as aulas e bootcamps que envolviam códigos e sintaxes específicas. Pensando que esses arquivos possam, de algum modo, ajudar alguém, resolvi compartilhar essas anotações com vocês aqui do Github :)
 
 ## Observação
 
